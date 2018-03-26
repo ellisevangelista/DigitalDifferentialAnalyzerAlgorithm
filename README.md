@@ -18,7 +18,7 @@ python -m pip install -U matplotlib
 ```
 python -m pip install Pillow
 ```
-* Numply
+* NumPy
 
 ## Deployment
 These are small Python applications so after you install the latest Python and the required libraries, you can now open these files using Python IDLE which is installed by default upon installation of Python using the installation packages available from the Python website.
