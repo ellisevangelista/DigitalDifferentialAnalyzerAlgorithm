@@ -21,7 +21,7 @@ python -m pip install Pillow
 * NumPy
 
 ## Deployment
-These are small Python applications so after you install the latest Python and the required libraries, you can now open these files using Python IDLE which is installed by default upon installation of Python using the installation packages available from the Python website.
+After you install the latest Python and the required libraries, you can now open and run these files using Python IDLE which is installed by default upon installation of Python using the installation packages available from the Python website.
 
 ## Authors
 * **Ellis Evangelista** -- [ellisevangelista](https://github.com/ellisevangelista)
