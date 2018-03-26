@@ -12,7 +12,7 @@ Python Programming Language
 ## Deployment
 This is a small Python application so after you install the latest Python, you can now open the file using Python IDLE which is installed by default upon installation of Python using the installation packages available from the Python website.
 
-## Authors
+## Author
 * **Ellis Evangelista** -- [ellisevangelista](https://github.com/ellisevangelista)
 
 ## License
