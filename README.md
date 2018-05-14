@@ -9,23 +9,16 @@ Programming language you need to install:
 * [Python](https://www.python.org/downloads/)
 
 Libraries you need to install:
-* Mathplotlib
+* tabulate
 ```
-python -m pip install -U pip
-python -m pip install -U matplotlib
+pip install tabulate
 ```
-* PIL
-```
-python -m pip install Pillow
-```
-* NumPy
 
 ## Deployment
 After you install the latest Python and the required libraries, you can now open and run these files using Python IDLE which is installed by default upon installation of Python using the installation packages available from the Python website.
 
 ## Authors
 * **Ellis Evangelista** -- [ellisevangelista](https://github.com/ellisevangelista)
-* **Kyle Farinas**
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
